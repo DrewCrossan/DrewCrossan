@@ -10,25 +10,47 @@ I'm a Data Engineer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, specialising
 
 **Languages & Data Processing:**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+  </a>
 </p>
 
 **Platforms & Orchestration:**
 <p>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/Delta_Lake-00425A?style=for-the-badge&logo=linux&logoColor=white" alt="Delta Lake"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/Astronomer-2495D2?style=for-the-badge&logo=astronomer&logoColor=white" alt="Astronomer"/>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  </a>
+  <a href="https://delta.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Delta_Lake-00425A?style=for-the-badge&logo=linux&logoColor=white" alt="Delta Lake"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+  </a>
+  <a href="https://www.astronomer.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Astronomer-2495D2?style=for-the-badge&logo=astronomer&logoColor=white" alt="Astronomer"/>
+  </a>
 </p>
 
 **Infrastructure & DevOps:**
 <p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=aws-cloudformation&logoColor=white" alt="CloudFormation"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=aws-cloudformation&logoColor=white" alt="CloudFormation"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a>
 </p>
 
 ---
